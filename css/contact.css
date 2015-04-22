@@ -1,0 +1,26 @@
+div#wrapper {
+  width: 750px;
+  margin: auto;
+  font-family: 'Open Sans'; }
+
+ul.left {
+  float: left; }
+  ul.left li {
+    text-align: center;
+    list-style: none; }
+
+ul.right {
+  float: right; }
+  ul.right li {
+    text-align: center;
+    list-style: none; }
+
+div.page-break {
+  width: 800px;
+  margin: auto;
+  height: 2px;
+  border-bottom: 1px solid black;
+  padding-top: 15em;
+  margin-left: 18.8em; }
+
+/*# sourceMappingURL=contact.css.map */

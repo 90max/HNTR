@@ -1,7 +1,18 @@
 div#nav{
+	font-size: 20px;
+	text-transform: uppercase;
+	text-align: center;
 	ul{
+		padding-left: 0;
 		li{
-			
+			display: inline;
+			margin-right: 15px;
+			font-family: 'Open Sans';
+			letter-spacing: 2px;
+			a{
+				color: black;
+				text-decoration: none;
+			}
 		}
 	}
 }
